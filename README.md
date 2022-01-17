@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/marvjo25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvjo25&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvjo25&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarujo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -23,5 +23,5 @@
   <a href = "mailto:lucasmarujo5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/marvjo25/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lucasmarujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
