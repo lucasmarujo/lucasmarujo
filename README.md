@@ -6,12 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
-  <div style="display: inline_block">Minhas Skills<br>
+  <div style="display: inline_block">
 
 <p align="center">
+  <span style="font-weight: bold; font-size: 18px; color: #333;">Minhas Skills</span><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind" /><br>
-    [![My Skills](https://skillicons.dev/icons?i=,python,js,html,css,wasm)](https://skillicons.dev)
   </a>
 </p>
  
