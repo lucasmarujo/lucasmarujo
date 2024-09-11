@@ -7,8 +7,13 @@
 </div>
   
   <div style="display: inline_block">Minhas Skills<br>
-[![My Skills](https://skillicons.dev/icons?i=,python,js,html,css,wasm)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css" /><br>
+    [![My Skills](https://skillicons.dev/icons?i=,python,js,html,css,wasm)](https://skillicons.dev)
+  </a>
+</p>
   <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
