@@ -10,16 +10,11 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind" /><br>
     [![My Skills](https://skillicons.dev/icons?i=,python,js,html,css,wasm)](https://skillicons.dev)
   </a>
 </p>
-  <img align="center" alt="lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="lucas-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><br>
-  <img align="right" alt="lucas-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/338224_KxzPaqCS.png">
+ 
 </div>
   
   <div> 
