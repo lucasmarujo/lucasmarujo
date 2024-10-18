@@ -33,7 +33,7 @@
 
 ## Network
 <p align="">
-  <a href="linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
+  <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/lucas.marujo/">
