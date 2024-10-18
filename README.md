@@ -8,7 +8,7 @@
   
   <div style="display: inline_block">
 
-<p align="center">
+<p align="">
   <span style="font-weight: bold; font-size: 18px; color: #333;">Minhas Skills</span><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind" /><br>
