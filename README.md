@@ -9,9 +9,10 @@
   <div style="display: inline_block">
 
 <p align="">
+## My Skill's
   <span style="font-weight: bold; font-size: 28px; color: #333;">Minhas Skills</span><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind,apple,autocad,django,figma,git,nodejs" /><br>
   </a>
 </p>
  
