@@ -33,14 +33,14 @@
 
 ## Network
 <p align="">
-  <a href="edin.com/in/lucas-marujo-amadeu-5322a7219/">
-    <img src="https://skillicons.dev/icons?i=linkedin" /><br>
+  <a href="linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/lucas.marujo/">
-    <img src="https://skillicons.dev/icons?i=instagram" /><br>
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="mailto:lucas.m.amadeu@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" /><br>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
  
