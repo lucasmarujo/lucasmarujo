@@ -7,41 +7,42 @@
 </div>
   
   <div style="display: inline_block">
-    
+
+
+
 ## Skill's Programs
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind,apple,autocad,django,figma,git,nodejs" /><br>
   </a>
 </p>
-
 ## Skill's Database
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" /><br>
   </a>
 </p>
-
 ## Skill's Cloud
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,azure,aws" /><br>
   </a>
 </p>
-
 ## Network
 <p align="">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" /><br>
+  <a href="edin.com/in/lucas-marujo-amadeu-5322a7219/">
+    <img src="https://skillicons.dev/icons?i=linkedin" /><br>
+  </a>
+  <a href="https://www.instagram.com/lucas.marujo/">
+    <img src="https://skillicons.dev/icons?i=instagram" /><br>
+  </a>
+  <a href="mailto:lucas.m.amadeu@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" /><br>
   </a>
 </p>
  
 </div>
   
-  <div> 
-  <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/lucas.marujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasmarujo5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   
+
   ![Snake animation](https://github.com/lucasmarujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
