@@ -10,10 +10,28 @@
 
 
 
-## My Skill's
+## Skill's Programs
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind,apple,autocad,django,figma,git,nodejs" /><br>
+  </a>
+</p>
+## Skill's Database
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" /><br>
+  </a>
+</p>
+## Skill's Cloud
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,azure,aws" /><br>
+  </a>
+</p>
+## Network
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" /><br>
   </a>
 </p>
  
