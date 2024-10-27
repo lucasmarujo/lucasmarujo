@@ -13,7 +13,7 @@
 ## Skill's Programs
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,ts,react,tailwind,apple,autocad,django,figma,git,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,apple,autocad,python,django,figma,git,nodejs" /><br>
   </a>
 </p>
 
