@@ -33,6 +33,7 @@
     <img src="https://skillicons.dev/icons?i=autocad,figma,git,apple" /><br>
   </a>
 </p>
+
 ## Network
 <p align="">
   <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
