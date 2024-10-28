@@ -13,21 +13,21 @@
 
 <div align="center">
   
-## Skill's FrontEnd
+## FrontEnd Skill's 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind," /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind," />
   </a>
 </p>
 
-## Skill's BackEnd
+## BackEnd Skill's
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,python,django,mysql,firebase,mongodb,gcp,azure,aws" /><br>
   </a>
 </p>
 
-## Skill's Others
+## Others Skill's 
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=autocad,figma,git,apple" /><br>
