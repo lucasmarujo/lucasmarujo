@@ -11,6 +11,8 @@
 
 
 ## Skill's Programs
+
+<div align="center">
 <p align="">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,apple,autocad,python,django,figma,git,nodejs" /><br>
@@ -30,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=gcp,azure,aws" /><br>
   </a>
 </p>
-
+</div>
 ## Network
 <p align="">
   <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
