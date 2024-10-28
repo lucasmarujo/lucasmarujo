@@ -10,26 +10,27 @@
 
 
 
-## Skill's FrontEnd
 
 <div align="center">
+  
+## Skill's FrontEnd
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,apple,autocad,figma,git,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind," /><br>
   </a>
 </p>
 
 ## Skill's BackEnd
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,firebase,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,django,mysql,firebase,mongodb,gcp,azure,aws" /><br>
   </a>
 </p>
 
-## Skill's Cloud
+## Skill's Others
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,azure,aws" /><br>
+    <img src="https://skillicons.dev/icons?i=autocad,figma,git,apple" /><br>
   </a>
 </p>
 </div>
