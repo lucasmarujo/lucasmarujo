@@ -36,10 +36,10 @@ I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web develo
 ## Contact & Network
 <p align="">
   <a href="https://www.linkedin.com/in/lucas-marujo-amadeu-5322a7219/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/lucas.marujo/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:lucas.m.amadeu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
