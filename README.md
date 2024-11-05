@@ -1,12 +1,17 @@
 # Olá, eu sou o Lucas Marujo! 
 
-<div align="center">
-  <a href="https://github.com/lucasmarujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarujo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=10&theme=blue-green"/>
-</div>
+I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web development. Proficient in user interface design, testing, debugging processes and maintaining web systems. With a versatile and promising skill set. Adept with JavaScript and TypeScript, along with their ecosystems. Power your digital dreams: Looking for a talented web developer to turn concepts into seamless online experiences!
+
+- I'm currently working in-house (), using Next.js, Node.js, etc. 💼
+- 💬 I'm open to suggestions or questions from the FrontEnd world. ❗❓
+- 📫 How to contact me:  [lucas.m.amadeu@gmail.com](mailto:lucas.m.amadeu@gmail.com) 📧 & my Discord: 🎮
+- Fun fact: I'm a big fan of Artificial Intelligence (A.I.). 🤖
+- 🗣️ As well as improving my programming, I'm always trying to improve my English and Spanish.
+
+
   
   <div style="display: inline_block">
+
 
 
 
@@ -46,6 +51,12 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+<div align="center">
+  <a href="https://github.com/lucasmarujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarujo&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=10&theme=blue-green"/>
+</div>
  
 </div>
 </div>
