@@ -57,7 +57,7 @@ I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web develo
 <div align="center">
   <a href="https://github.com/lucasmarujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarujo&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=10&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=10&theme=dark"/>
 </div>
  
 </div>
