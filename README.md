@@ -10,6 +10,7 @@ I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web develo
 
 ### You can access my portfolio by clicking on the link below
 [English Version]()
+
 [Portuguese Version]()
 <div style="display: inline_block">
 <div align="center">
