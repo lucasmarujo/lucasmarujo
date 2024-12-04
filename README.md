@@ -7,7 +7,10 @@ I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web develo
 - 📫 How to contact me:  [lucas.m.amadeu@gmail.com](mailto:lucas.m.amadeu@gmail.com) 📧 & my Discord: lmj2504 🎮
 - Fun fact: I'm a big fan of Artificial Intelligence (A.I.). 🤖
 - 🗣️ As well as improving my programming, I'm always trying to improve my English and Spanish.
- 
+
+### You can access my portfolio by clicking on the link below
+[English Version]()
+[Portuguese Version]()
 <div style="display: inline_block">
 <div align="center">
   
