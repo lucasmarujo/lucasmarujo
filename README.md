@@ -9,9 +9,8 @@ I'm Brazilian. Experienced FrontEnd Developer, covering all stages of web develo
 - 🗣️ As well as improving my programming, I'm always trying to improve my English and Spanish.
 
 ### You can access my portfolio by clicking on the link below
-[English Version](https://lucasmarujo.github.io/US-portfolio/)
 
-[Portuguese Version](https://lucasmarujo.github.io/portfolio/)
+[Portuguese & English Version](https://lucasmarujo.github.io/portfolio-2.0/)
 <div style="display: inline_block">
 <div align="center">
   
