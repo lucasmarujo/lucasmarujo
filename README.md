@@ -20,7 +20,7 @@ Brazilian Frontend Developer experienced in all stages of web development. Speci
 - 🤖 Big enthusiast of Artificial Intelligence
 
 ### 🔗 Portfolio
-➡️ [Portuguese & English Version](https://lucasmarujo.github.io/portfolio-2.0/)
+➡️ [English Version](https://lucasmarujo.github.io/portfolio-final/)
 
 ## 🛠️ Technologies & Tools
 
