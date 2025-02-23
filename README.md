@@ -10,17 +10,17 @@
 
 ## 🚀 About Me
 
-Brazilian Frontend Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems.
+Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems.
 
 ### 📌 Highlights
-- 💻 Currently developing personal projects using Next.js, Node.js, and other technologies
+- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies
 - 🔍 Open to new opportunities
-- 💬 Available for Frontend suggestions or questions
+- 💬 Available for FullStack suggestions or questions
 - 🌎 Always improving my English and Spanish skills
 - 🤖 Big enthusiast of Artificial Intelligence
 
 ### 🔗 Portfolio
-➡️ [English Version](https://lucasmarujo.github.io/portfolio-final/)
+➡️ [Acess Link](https://lucasmarujo.github.io/portfolio-final/)
 
 ## 🛠️ Technologies & Tools
 
