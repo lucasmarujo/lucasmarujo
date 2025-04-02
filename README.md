@@ -15,6 +15,9 @@
   <a href="https://lucasmarujo.github.io/portfolio-final/"><img alt="Portfolio" src="https://img.shields.io/badge/:badgeContent"></a>
 </p>
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
 </div>
 
 ## 🛠️ My Skills
