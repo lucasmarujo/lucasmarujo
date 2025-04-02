@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/lucas.marujo/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
   </a>
-  <a href="https://lucasmarujo.github.io/portfolio-final/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-2bea72"></a>
+  <a href="https://lucasmarujo.github.io/portfolio-final/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
 </p>
 
 
@@ -46,10 +46,6 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
 - 💬 Available for FullStack suggestions or questions
 - 🌎 Always improving my English and Spanish skills
 - 🤖 Big enthusiast of Artificial Intelligence
-
-### 🔗 Portfolio
-➡️ [Acess Link](https://lucasmarujo.github.io/portfolio-final/)
-
 
 ## 📊 GitHub Stats
 
