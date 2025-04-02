@@ -32,8 +32,6 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
 ## 🛠️ My Skills
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-
-
 ### Frontend
 ### Backend
 </div>
