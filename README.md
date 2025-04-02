@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/lucas.marujo/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
   </a>
-  ![Static Badge](https://img.shields.io/badge/:badgeContent)
+  <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 </p>
 
 </div>
