@@ -30,7 +30,7 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
 ➡️ [Acess Link](https://lucasmarujo.github.io/portfolio-final/)
 
 ## 🛠️ My Skills
-
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32px"/>
@@ -44,6 +44,7 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  height="32px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32px"/>
+</div>
 
 ## 📊 GitHub Stats
 
