@@ -15,20 +15,6 @@
 
 </div>
 
-## 🚀 About Me
-
-Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems.
-
-### 📌 Highlights
-- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies
-- 🔍 Open to new opportunities
-- 💬 Available for FullStack suggestions or questions
-- 🌎 Always improving my English and Spanish skills
-- 🤖 Big enthusiast of Artificial Intelligence
-
-### 🔗 Portfolio
-➡️ [Acess Link](https://lucasmarujo.github.io/portfolio-final/)
-
 ## 🛠️ My Skills
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32px" />
@@ -45,6 +31,22 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32px"/>
 </div>
+
+
+## 🚀 About Me
+
+Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems.
+
+### 📌 Highlights
+- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies
+- 🔍 Open to new opportunities
+- 💬 Available for FullStack suggestions or questions
+- 🌎 Always improving my English and Spanish skills
+- 🤖 Big enthusiast of Artificial Intelligence
+
+### 🔗 Portfolio
+➡️ [Acess Link](https://lucasmarujo.github.io/portfolio-final/)
+
 
 ## 📊 GitHub Stats
 
