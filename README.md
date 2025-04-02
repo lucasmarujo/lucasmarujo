@@ -12,10 +12,11 @@
   <a href="https://www.instagram.com/lucas.marujo/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
   </a>
-  <a href="https://lucasmarujo.github.io/portfolio-final/"><img alt="Portfolio" src="https://img.shields.io/badge/:badgeContent"></a>
-</p>
+  <a href="https://lucasmarujo.github.io/portfolio-final/">
 
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+  ![Static Badge](https://img.shields.io/badge/Portfolio-8A2BE2)
+  </a>
+</p>
 
 
 </div>
