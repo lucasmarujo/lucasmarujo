@@ -38,13 +38,13 @@
 
 ## 🚀 About Me
 
-Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems.
+Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems. And also, studying python and django
 
 ### 📌 Highlights
-- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies
-- 🔍 Open to new opportunities
+- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies like Python and Django
+- 🧑‍💼 Currently working as a junior systems development analyst at Grupo Tombini
 - 💬 Available for FullStack suggestions or questions
-- 🌎 Always improving my English and Spanish skills
+- 🌎 Always improving my English, French and Spanish skills
 - 🤖 Big enthusiast of Artificial Intelligence
 
 ## 📊 GitHub Stats
