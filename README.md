@@ -1,4 +1,4 @@
-<div align="center">
+< align="center">
   
 # 👋 Hi, I'm Lucas Marujo!
 
@@ -15,38 +15,36 @@
   <a href="https://lucasmarujo.github.io/portfolio-final/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
 </p>
 
-
-</div>
-
-## 🛠️ My Skills
+## 🛠️ Languages & Tools
 <div align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="32px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"  height="32px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="32px"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32px"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="32px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="32px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="32px" />
+  
 </div>
 
 
 ## 🚀 About Me
 
-Brazilian FullStack Developer experienced in all stages of web development. Specialized in user interface design, testing, debugging processes, and web systems maintenance. With a versatile and promising skill set, I'm proficient in JavaScript and TypeScript, along with their ecosystems. And also, studying python and django
-
-### 📌 Highlights
-- 💻 Currently developing personal projects using React.js, Node.js, Typescript, Tailwind CSS and other technologies like Python and Django
-- 🧑‍💼 Currently working as a junior systems development analyst at Grupo Tombini
-- 💬 Available for FullStack suggestions or questions
-- 🌎 Always improving my English, French and Spanish skills
+- 💻 FullStack Developer 
+- 🇧🇷 Brazil Native
+- 📲 UX | UI Specialized
 - 🤖 Big enthusiast of Artificial Intelligence
+- 🌎 Always improving my English, French and Spanish skills
 
 ## 📊 GitHub Stats
 
@@ -55,16 +53,17 @@ Brazilian FullStack Developer experienced in all stages of web development. Spec
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarujo&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
+<!-- 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://profile-counter.glitch.me/lucasmarujo/count.svg"
     alt="Número de visitantes no perfil"
   />
-</p>
+</p> --> 
 
 <div align="center">
   
