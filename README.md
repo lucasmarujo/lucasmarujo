@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/pacman-contribution-graph@2.0.0/dist/index.min.js"></script>
-< align="center">
   
 # 👋 Hi, I'm Lucas Marujo!
 
@@ -69,5 +67,6 @@
 <div align="center">
   
   ![Snake animation](https://github.com/lucasmarujo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasmarujo/lucsamarujo/output/pacman-contribution-graph.svg">
   
 </div>
