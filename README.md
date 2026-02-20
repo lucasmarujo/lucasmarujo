@@ -14,12 +14,9 @@
 
 ## 🚀 About Me
 
-- 💻 FullStack Developer - Web & Mobile
-- 👨🏻‍🎓 Graduated in Computer Science
-- 📲 UX | UI Specialized
-- 🤖 Big enthusiast of Artificial Intelligence
-- 🌎 Always improving my English, French and Spanish skills
-- 🇧🇷 Brazil Native
+FullStack Developer focused on building scalable and maintainable systems.  
+Strong backend orientation with experience in REST APIs, distributed systems and clean architecture.  
+Passionate about performance, system design and continuous improvement.
 
 ## 💼 Work
 
@@ -29,8 +26,28 @@
 - 🧪 Apply clean architecture, testing strategies and DevOps practices  
 - 🔐 Deliver solutions with security, performance and user experience in mind  
 
+## 📊 Highlights
+
+- 🚀 Developed scalable backend systems with production-ready architecture  
+- 🔐 Implemented authentication and secure API patterns  
+- 📦 Built end-to-end applications from concept to deployment  
+- ⚡ Focused on performance, maintainability and clean code
+
+## 🚀 Featured Projects
+
+### 🔹 Axis ERP
+Short description of what it does and the stack used.  
+Tech: Go, PostgreSQL, Docker  
+[Repository Link]
+
+### 🔹 Axis Mobile App
+Short description of business problem solved.  
+Tech: React, Node, AWS  
+[Repository Link]
+
 ## 🛠️ Languages & Tools
 
+### 💡 Core Stack: Go • .NET • Python • React • PostgreSQL • Docker • AWS
 ### 🚀 Backend
 Go • .NET / .NET Core • Node.js • Python • Django  
 REST APIs • Clean Architecture • JWT • Microservices
@@ -39,13 +56,13 @@ REST APIs • Clean Architecture • JWT • Microservices
 React • React Native • Next.js • TypeScript • JavaScript • TailwindCSS
 
 ### 🗄️ Databases
-PostgreSQL • MySQL • Prisma ORM
+PostgreSQL • MySQL • Prisma ORM • MongoDB
 
 ### ⚙️ DevOps & Infrastructure
 Docker • AWS • Jenkins • Linux • CI/CD
 
 ### 🧰 Tools & Workflow
-Git • Bitbucket • Jira • Trello
+Git • Bitbucket • Jira • Trello • Notion
 </div>
 
 
