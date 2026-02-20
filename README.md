@@ -33,17 +33,26 @@ Passionate about performance, system design and continuous improvement.
 - 📦 Built end-to-end applications from concept to deployment  
 - ⚡ Focused on performance, maintainability and clean code
 
-## 🚀 Featured Projects
+## 🚀 Professional Projects
 
-### 🔹 Axis ERP
-Short description of what it does and the stack used.  
-Tech: Go, PostgreSQL, Docker  
-[Repository Link]
+### 🔹 Axis ERP (Private - Company Project)
+Enterprise Resource Planning (ERP) system developed for internal operations management.  
+Designed to handle complex business workflows, CRUD operations, operational analytics and AI-driven process optimization.
 
-### 🔹 Axis Mobile App
-Short description of business problem solved.  
-Tech: React, Node, AWS  
-[Repository Link]
+**Tech Stack:** React • TypeScript • Django • PostgreSQL  
+**Highlights:** Business Intelligence dashboards • Process automation • Applied AI in operational flows  
+
+> Source code is private due to company confidentiality.
+
+
+### 🔹 Axis Mobile App (Private - Company Project)
+Mobile application built for driver onboarding and training management.  
+Enabled course visualization, certification issuance and secure validation using hash-based verification and encryption mechanisms.
+
+**Tech Stack:** React Native (Expo) • Django • PostgreSQL  
+**Highlights:** Secure certificate validation • Authentication flows • Scalable backend API  
+
+> Source code is private due to company confidentiality.
 
 ## 🛠️ Languages & Tools
 
