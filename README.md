@@ -21,17 +21,11 @@ Passionate about performance, system design and continuous improvement.
 ## 💼 Work
 
 - 🚀 Build scalable fullstack systems focused on performance and maintainability  
-- 🧩 Design REST APIs with clear architecture and long-term scalability  
-- 🏗️ Transform business requirements into reliable production-ready software  
-- 🧪 Apply clean architecture, testing strategies and DevOps practices  
-- 🔐 Deliver solutions with security, performance and user experience in mind  
-
-## 📊 Highlights
-
-- 🚀 Developed scalable backend systems with production-ready architecture  
-- 🔐 Implemented authentication and secure API patterns  
-- 📦 Built end-to-end applications from concept to deployment  
-- ⚡ Focused on performance, maintainability and clean code
+- 🧩 Design REST APIs with clean architecture and long-term scalability  
+- 🔐 Implement secure authentication and robust API patterns  
+- 📊 Develop systems with analytics, business logic and process optimization  
+- 🧪 Apply testing strategies and DevOps practices for production environments  
+- 📦 Deliver end-to-end solutions from concept to deployment  
 
 ## 🚀 Professional Projects
 
