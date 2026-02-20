@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://wa.me/5511992515086" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://lm-cyberpunk-portfolio.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
+  <a href="https://portfolio-lucasmarujo.vercel.app/"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
 </p>
 
 
@@ -21,38 +21,38 @@
 - 🌎 Always improving my English, French and Spanish skills
 - 🇧🇷 Brazil Native
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucasmarujo&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmarujo&theme=blueberry&show_icons=true&hide_border=true&layout=compact"/>
+## 💼 Work
+
+- 🚀 Build scalable fullstack systems focused on performance and maintainability  
+- 🧩 Design REST APIs with clear architecture and long-term scalability  
+- 🏗️ Transform business requirements into reliable production-ready software  
+- 🧪 Apply clean architecture, testing strategies and DevOps practices  
+- 🔐 Deliver solutions with security, performance and user experience in mind  
+
+## 🛠️ Languages & Tools
+
+### 🚀 Backend
+Go • .NET / .NET Core • Node.js • Python • Django  
+REST APIs • Clean Architecture • JWT • Microservices
+
+### 🎨 Frontend & Mobile
+React • React Native • Next.js • TypeScript • JavaScript • TailwindCSS
+
+### 🗄️ Databases
+PostgreSQL • MySQL • Prisma ORM
+
+### ⚙️ DevOps & Infrastructure
+Docker • AWS • Jenkins • Linux • CI/CD
+
+### 🧰 Tools & Workflow
+Git • Bitbucket • Jira • Trello
 </div>
+
+
+## 📊 GitHub Stats
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph.svg">
 </picture>
-
-## 🛠️ Languages & Tools
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="32px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="32px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="32px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="32px" />
-          
-  
-</div>
