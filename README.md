@@ -10,69 +10,14 @@
 </p>
 
 
-
-
-## 🚀 About Me
-
-FullStack Developer focused on building scalable and maintainable systems.  
-Strong backend orientation with experience in REST APIs, distributed systems and clean architecture.  
-Passionate about performance, system design and continuous improvement.
-
-## 💼 Work
-
-- 🚀 Build scalable fullstack systems focused on performance and maintainability  
-- 🧩 Design REST APIs with clean architecture and long-term scalability  
-- 🔐 Implement secure authentication and robust API patterns  
-- 📊 Develop systems with analytics, business logic and process optimization  
-- 🧪 Apply testing strategies and DevOps practices for production environments  
-- 📦 Deliver end-to-end solutions from concept to deployment  
-
-## 🚀 Professional Projects
-
-### 🔹 Axis ERP (Private - Company Project)
-Enterprise Resource Planning (ERP) system developed for internal operations management.  
-Designed to handle complex business workflows, CRUD operations, operational analytics and AI-driven process optimization.
-
-**Tech Stack:** React • TypeScript • Django • PostgreSQL  
-**Highlights:** Business Intelligence dashboards • Process automation • Applied AI in operational flows  
-
-> Source code is private due to company confidentiality.
-
-
-### 🔹 Axis Mobile App (Private - Company Project)
-Mobile application built for driver onboarding and training management.  
-Enabled course visualization, certification issuance and secure validation using hash-based verification and encryption mechanisms.
-
-**Tech Stack:** React Native (Expo) • Django • PostgreSQL  
-**Highlights:** Secure certificate validation • Authentication flows • Scalable backend API  
-
-> Source code is private due to company confidentiality.
-
 ## 🛠️ Languages & Tools
 
-### 💡 Core Stack: Go • .NET • Python • React • PostgreSQL • Docker • AWS
-### 🚀 Backend
-Go • .NET / .NET Core • Node.js • Python • Django  
-REST APIs • Clean Architecture • JWT • Microservices
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,tailwind,nodejs,postgres,mysql,mongo,redis,docker,kubernetes,jenkins,aws,azure,git,gitlab,linux" />
+  </a>
+</p>
 
-### 🎨 Frontend & Mobile
-React • React Native • Next.js • TypeScript • JavaScript • TailwindCSS
-
-### 🗄️ Databases
-PostgreSQL • MySQL • Prisma ORM • MongoDB
-
-### ⚙️ DevOps & Infrastructure
-Docker • AWS • Jenkins • Linux • CI/CD
-
-### 🧰 Tools & Workflow
-Git • Bitbucket • Jira • Trello • Notion
-</div>
-
-
-## 📊 GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lucasmarujo/lucasmarujo/output/pacman-contribution-graph.svg">
-</picture>
+## 🎖️ Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
