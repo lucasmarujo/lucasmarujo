@@ -2,8 +2,8 @@ name: Update Badges
 
 on:
   schedule:
-    # Runs daily at 2 AM UTC
-    - cron: "0 2 * * *"
+    # 11h no horário de Brasília (UTC-3) = 14h UTC
+    - cron: "0 14 * * *"
   workflow_dispatch: # Allow manual runs
 
 jobs:
@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${{ lucas-marujo-amadeu }} # Uses your GitHub username
+          CREDLY_USER: lucas-marujo-amadeu # Seu username do Credly (credly.com/users/<username>)
           NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
