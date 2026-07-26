@@ -20,6 +20,7 @@
 
 ## 🎖️ Certifications
 <!--START_SECTION:badges-->
+[![AWS Agentic AI Demonstrated](https://images.credly.com/size/80x80/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob)](https://www.credly.com/badges/3084e5f8-8d06-4443-9dbb-d88bbea30d8a)
 [![AWS Educate Getting Started with Compute - Training Badge](https://images.credly.com/size/80x80/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob)](https://www.credly.com/badges/404dfdd4-0967-48da-b356-fed069b70173)
 [![Introduction to IoT](https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/c1b344a8-989e-436c-9fae-a1957651d9e9)
 [![Introduction to Packet Tracer](https://images.credly.com/size/80x80/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png)](https://www.credly.com/badges/35a22a79-3f0e-466c-ad32-e12c06b31fea)
