@@ -1,12 +1,26 @@
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=26F70F&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lucas+Marujo!)](https://git.io/typing-svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=lucasmarujo&color=blueviolet&style=flat-square" alt="views"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-amadeu/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5511992515086" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="https://marujo.dev"><img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-8A2BE2"></a>
+<h1 align="left">
+  <a href="https://marujo.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=26F70F&width=520&lines=Lucas+Marujo+%F0%9F%91%8B;AI+%26+Software+Engineer;Building+intelligent+systems" alt="Typing SVG" />
+  </a>
+</h1>
+
+> **Engenheiro de IA & Software.** Eu gosto de transformar ideias em produtos que funcionam de verdade, do protótipo em notebook até o sistema rodando em produção. No dia a dia trabalho com modelos de Machine Learning, integrações com LLMs e o stack completo por trás: APIs, banco, infra, frontend. O que me move é escrever código bem feito que resolve problemas de gente real.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-amadeu/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/5511992515086" title="WhatsApp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://marujo.dev"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:hi@marujo.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineer-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-05122A?style=flat-square&logo=scikitlearn&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/Backend-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full--Stack-3178C6?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 
