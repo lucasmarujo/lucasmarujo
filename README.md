@@ -45,3 +45,10 @@
 [![Python Essentials 1](https://images.credly.com/size/80x80/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/1493320d-fc71-43d0-9b53-1060279fa2a8)
 [![Oracle Cloud Infrastructure 2025 Certified Generative AI Professional](https://images.credly.com/size/80x80/images/009e3f95-9295-4baf-af4a-c85c24cfbb46/OCI25GAIOCP_cached_image_20250902-32-4693pr.png)](https://www.credly.com/users/lucas-marujo-amadeu/badges)
 <!--END_SECTION:badges-->
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=dev.marujo.pulso" title="Pulso"><img src="assets/card-pulso.svg" width="48%" alt="Pulso — aplicativo de treino e dieta com IA integrada para Android e iOS"/></a>
+  <img src="assets/card-lingo.svg" width="48%" alt="Lingo — em desenvolvimento"/>
+</p>
