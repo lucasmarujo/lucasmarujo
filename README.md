@@ -50,5 +50,5 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.pulso" title="Pulso"><img src="assets/card-pulso.svg" width="48%" alt="Pulso — aplicativo de treino e dieta com IA integrada para Android e iOS"/></a>
-  <img src="assets/card-lingo.svg" width="48%" alt="Lingo — em desenvolvimento"/>
+  <a href="https://play.google.com/store/apps/details?id=dev.marujo.appblocker" title="AceleraLock"><img src="assets/card-acelera.svg" width="48%" alt="AceleraLock — bloqueador de apps para manter o foco e controlar o tempo de tela no Android"/></a>
 </p>

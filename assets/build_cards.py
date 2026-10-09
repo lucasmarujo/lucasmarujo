@@ -16,13 +16,13 @@ PROJECTS = [
         "available": True,
     },
     {
-        "slug": "lingo",
-        "name": "Lingo",
-        "color": "#8B96FF",
-        "icon": "icon-lingo.png",
-        "lines": ["Em desenvolvimento."],
-        "cta": "Em breve",
-        "available": False,
+        "slug": "acelera",
+        "name": "AceleraLock",
+        "color": "#3FCECB",
+        "icon": "icon-acelera.png",
+        "lines": ["Bloqueador de apps para manter o foco", "e controlar o tempo de tela no Android."],
+        "cta": "Baixar app",
+        "available": True,
     },
 ]
 
