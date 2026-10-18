@@ -17,7 +17,7 @@ PROJECTS = [
     },
     {
         "slug": "acelera",
-        "name": "AceleraLock",
+        "name": "Instablock",
         "color": "#3FCECB",
         "icon": "icon-acelera.png",
         "lines": ["Bloqueador de apps para manter o foco", "e controlar o tempo de tela no Android."],
