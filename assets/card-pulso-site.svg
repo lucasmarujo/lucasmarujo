@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="68" viewBox="0 0 150 68" role="img" aria-label="Visitar site">
+  <path d="M-1 -1H149.25V51.25A16 16 0 0 1 133.25 67.25H-1Z" fill="#0D1117"/><path d="M149.25 -1V51.25A16 16 0 0 1 133.25 67.25H-1" fill="none" stroke="#242C37"/><rect x="4.5" y="10.5" width="121" height="33" rx="16.5" fill="#C2F24A" fill-opacity="0.06" stroke="#C2F24A" stroke-opacity="0.5"/><text x="92.3" y="31.5" text-anchor="end" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#C2F24A">Visitar site</text><path d="M99.3 31l8-8M101.3 23h6v6" fill="none" stroke="#C2F24A" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

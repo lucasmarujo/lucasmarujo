@@ -42,14 +42,21 @@ SITE_CTA = "Visitar site"
 FONT = "'Segoe UI',Roboto,Helvetica,Arial,sans-serif"
 BASE = os.path.dirname(os.path.abspath(__file__))
 
+CARD_BACKGROUND = "#0D1117"
+CARD_BORDER = "#242C37"
 CARD_WIDTH = 300
-CARD_HEIGHT = 166
-BUTTON_WIDTH = CARD_WIDTH // 2
-BUTTON_HEIGHT = 36
-BUTTON_GAP = 3
-PILL_WIDTH = BUTTON_WIDTH - BUTTON_GAP / 2 - 1.5
-APP_PILL_X = 0.75
-SITE_PILL_X = BUTTON_GAP / 2 + 0.75
+CARD_RADIUS = 16
+CARD_PADDING = 24
+TOP_HEIGHT = 152
+HALF_WIDTH = CARD_WIDTH // 2
+BOTTOM_HEIGHT = 68
+BUTTON_GAP = 8
+BUTTON_WIDTH = (CARD_WIDTH - 2 * CARD_PADDING - BUTTON_GAP) // 2
+BUTTON_HEIGHT = 34
+BUTTON_Y = BOTTOM_HEIGHT - CARD_PADDING - BUTTON_HEIGHT
+APP_BUTTON_X = CARD_PADDING
+SITE_BUTTON_X = BUTTON_GAP // 2
+LABEL_Y = BUTTON_Y + 21.5
 LABEL_CHAR_WIDTH = 5.8
 LABEL_ICON_GAP = 7
 DOWNLOAD_ICON_WIDTH = 10
@@ -79,50 +86,94 @@ def render_icon(project):
     )
 
 
-def layout_label(label, pill_x, icon_width):
+def top_shape():
+    edge = CARD_WIDTH - 0.75
+    return (
+        f"M0.75 {TOP_HEIGHT + 1}V{0.75 + CARD_RADIUS:g}"
+        f"A{CARD_RADIUS} {CARD_RADIUS} 0 0 1 {0.75 + CARD_RADIUS:g} 0.75H{edge - CARD_RADIUS:g}"
+        f"A{CARD_RADIUS} {CARD_RADIUS} 0 0 1 {edge:g} {0.75 + CARD_RADIUS:g}V{TOP_HEIGHT + 1}"
+    )
+
+
+def app_half_shapes():
+    bottom = BOTTOM_HEIGHT - 0.75
+    corner = (
+        f"V{bottom - CARD_RADIUS:g}"
+        f"A{CARD_RADIUS} {CARD_RADIUS} 0 0 0 {0.75 + CARD_RADIUS:g} {bottom:g}H{HALF_WIDTH + 1}"
+    )
+    return f"M{HALF_WIDTH + 1} -1H0.75{corner}Z", f"M0.75 -1{corner}"
+
+
+def site_half_shapes():
+    bottom = BOTTOM_HEIGHT - 0.75
+    edge = HALF_WIDTH - 0.75
+    corner = (
+        f"V{bottom - CARD_RADIUS:g}"
+        f"A{CARD_RADIUS} {CARD_RADIUS} 0 0 1 {edge - CARD_RADIUS:g} {bottom:g}H-1"
+    )
+    return f"M-1 -1H{edge:g}{corner}Z", f"M{edge:g} -1{corner}"
+
+
+def layout_label(label, button_x, icon_width):
     text_width = LABEL_CHAR_WIDTH * len(label)
-    center = pill_x + PILL_WIDTH / 2
+    center = button_x + BUTTON_WIDTH / 2
     text_end = center - (text_width + LABEL_ICON_GAP + icon_width) / 2 + text_width
     return text_end, text_end + LABEL_ICON_GAP + icon_width / 2
 
 
-def render_button(label, body):
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{BUTTON_WIDTH}" height="{BUTTON_HEIGHT}" viewBox="0 0 {BUTTON_WIDTH} {BUTTON_HEIGHT}" role="img" aria-label="{label}">
+def render_piece(width, height, label, body):
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{label}">
   {body}
 </svg>
 """
+
+
+def render_half(shapes, button):
+    fill, border = shapes
+    return (
+        f'<path d="{fill}" fill="{CARD_BACKGROUND}"/>'
+        f'<path d="{border}" fill="none" stroke="{CARD_BORDER}"/>'
+        f"{button}"
+    )
 
 
 def render_cta(project):
     label = project["cta"]
     if project["available"]:
         color = project["color"]
-        tx, ix = layout_label(label, APP_PILL_X, DOWNLOAD_ICON_WIDTH)
-        return render_button(label, (
-            f'<rect x="{APP_PILL_X:g}" y="0.75" width="{PILL_WIDTH:g}" height="34.5" rx="17.25" fill="{color}" stroke="{color}"/>'
-            f'<text x="{tx:g}" y="22.5" text-anchor="end" font-family="{FONT}" font-size="12.5"'
+        tx, ix = layout_label(label, APP_BUTTON_X, DOWNLOAD_ICON_WIDTH)
+        arrow_top = BUTTON_Y + 9.5
+        button = (
+            f'<rect x="{APP_BUTTON_X}" y="{BUTTON_Y}" width="{BUTTON_WIDTH}" height="{BUTTON_HEIGHT}"'
+            f' rx="{BUTTON_HEIGHT / 2:g}" fill="{color}"/>'
+            f'<text x="{tx:g}" y="{LABEL_Y:g}" text-anchor="end" font-family="{FONT}" font-size="12.5"'
             f' font-weight="600" fill="#0D1117">{label}</text>'
-            f'<path d="M{ix:g} 10.5v9m0 0l-3.5-3.5M{ix:g} 19.5l3.5-3.5M{ix - 5:g} 25.5h10" fill="none"'
-            f' stroke="#0D1117" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'
-        ))
-    return render_button(label, (
-        f'<rect x="{APP_PILL_X:g}" y="0.75" width="{PILL_WIDTH:g}" height="34.5" rx="17.25" fill="none" stroke="#30363D"/>'
-        f'<text x="{APP_PILL_X + PILL_WIDTH / 2:g}" y="22.5" text-anchor="middle" font-family="{FONT}" font-size="12.5"'
-        f' font-weight="600" fill="#6E7681">{label}</text>'
-    ))
+            f'<path d="M{ix:g} {arrow_top:g}v9m0 0l-3.5-3.5M{ix:g} {arrow_top + 9:g}l3.5-3.5M{ix - 5:g} {arrow_top + 15:g}h10"'
+            f' fill="none" stroke="#0D1117" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'
+        )
+    else:
+        button = (
+            f'<rect x="{APP_BUTTON_X + 0.5:g}" y="{BUTTON_Y + 0.5:g}" width="{BUTTON_WIDTH - 1}" height="{BUTTON_HEIGHT - 1}"'
+            f' rx="{(BUTTON_HEIGHT - 1) / 2:g}" fill="none" stroke="#30363D"/>'
+            f'<text x="{APP_BUTTON_X + BUTTON_WIDTH / 2:g}" y="{LABEL_Y:g}" text-anchor="middle" font-family="{FONT}"'
+            f' font-size="12.5" font-weight="600" fill="#6E7681">{label}</text>'
+        )
+    return render_piece(HALF_WIDTH, BOTTOM_HEIGHT, label, render_half(app_half_shapes(), button))
 
 
 def render_site_cta(project):
     color = project["color"]
-    tx, ix = layout_label(SITE_CTA, SITE_PILL_X, SITE_ICON_WIDTH)
-    return render_button(SITE_CTA, (
-        f'<rect x="{SITE_PILL_X:g}" y="0.75" width="{PILL_WIDTH:g}" height="34.5" rx="17.25" fill="#0D1117"'
-        f' stroke="{color}" stroke-opacity="0.45"/>'
-        f'<text x="{tx:g}" y="22.5" text-anchor="end" font-family="{FONT}" font-size="12.5"'
+    tx, ix = layout_label(SITE_CTA, SITE_BUTTON_X, SITE_ICON_WIDTH)
+    icon_y = BUTTON_Y + BUTTON_HEIGHT / 2
+    button = (
+        f'<rect x="{SITE_BUTTON_X + 0.5:g}" y="{BUTTON_Y + 0.5:g}" width="{BUTTON_WIDTH - 1}" height="{BUTTON_HEIGHT - 1}"'
+        f' rx="{(BUTTON_HEIGHT - 1) / 2:g}" fill="{color}" fill-opacity="0.06" stroke="{color}" stroke-opacity="0.5"/>'
+        f'<text x="{tx:g}" y="{LABEL_Y:g}" text-anchor="end" font-family="{FONT}" font-size="12.5"'
         f' font-weight="600" fill="{color}">{SITE_CTA}</text>'
-        f'<path d="M{ix - 4:g} 22l8-8M{ix - 2:g} 14h6v6" fill="none"'
+        f'<path d="M{ix - 4:g} {icon_y + 4:g}l8-8M{ix - 2:g} {icon_y - 4:g}h6v6" fill="none"'
         f' stroke="{color}" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>'
-    ))
+    )
+    return render_piece(HALF_WIDTH, BOTTOM_HEIGHT, SITE_CTA, render_half(site_half_shapes(), button))
 
 
 def render_lines(lines):
@@ -135,8 +186,8 @@ def render_lines(lines):
 
 def render_card(project):
     color = project["color"]
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{CARD_WIDTH}" height="{CARD_HEIGHT}" viewBox="0 0 {CARD_WIDTH} {CARD_HEIGHT}" role="img" aria-label="{project['name']}">
-  <defs>
+    shape = top_shape()
+    return render_piece(CARD_WIDTH, TOP_HEIGHT, project["name"], f"""<defs>
     <linearGradient id="icon" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="{color}" stop-opacity="0.9"/>
       <stop offset="1" stop-color="{color}" stop-opacity="0.55"/>
@@ -146,15 +197,13 @@ def render_card(project):
       <stop offset="1" stop-color="{color}" stop-opacity="0"/>
     </radialGradient>
   </defs>
-  <rect x="0.75" y="0.75" width="{CARD_WIDTH - 1.5:g}" height="{CARD_HEIGHT - 1.5:g}" rx="16" fill="#0D1117" stroke="#242C37"/>
-  <rect x="0.75" y="0.75" width="{CARD_WIDTH - 1.5:g}" height="{CARD_HEIGHT - 1.5:g}" rx="16" fill="url(#glow)"/>
+  <path d="{shape}" fill="{CARD_BACKGROUND}" stroke="{CARD_BORDER}"/>
+  <path d="{shape}" fill="url(#glow)"/>
   {render_icon(project)}
   <text x="90" y="43" font-family="{FONT}" font-size="9.5" font-weight="600" letter-spacing="2" fill="#5B6672">{project['kind']}</text>
   <text x="89" y="69" font-family="{FONT}" font-size="24" font-weight="700" fill="{color}">{project['name']}</text>
   <line x1="24" y1="96" x2="{CARD_WIDTH - 24}" y2="96" stroke="#1E252F"/>
-  {render_lines(project['lines'])}
-</svg>
-"""
+  {render_lines(project['lines'])}""")
 
 
 def write_svg(filename, content):
@@ -166,6 +215,6 @@ def write_svg(filename, content):
 
 if __name__ == "__main__":
     for project in PROJECTS:
-        write_svg(f"card-{project['slug']}.svg", render_card(project))
-        write_svg(f"btn-{project['slug']}-app.svg", render_cta(project))
-        write_svg(f"btn-{project['slug']}-site.svg", render_site_cta(project))
+        write_svg(f"card-{project['slug']}-top.svg", render_card(project))
+        write_svg(f"card-{project['slug']}-app.svg", render_cta(project))
+        write_svg(f"card-{project['slug']}-site.svg", render_site_cta(project))
