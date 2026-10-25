@@ -36,6 +36,16 @@ PROJECTS = [
         "cta": "Baixar CLI",
         "available": True,
     },
+    {
+        "slug": "gitwallpaper",
+        "name": "Git Wallpaper",
+        "kind": "MOBILE APP",
+        "color": "#39D353",
+        "icon": "icon-gitwallpaper.png",
+        "lines": ["Seu gráfico de contribuições do GitHub", "no wallpaper do Android, sempre em dia."],
+        "cta": "Baixar app",
+        "available": True,
+    },
 ]
 
 SITE_CTA = "Visitar site"

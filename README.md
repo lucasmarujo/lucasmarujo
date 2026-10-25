@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,react,tailwind,nodejs,postgres,mysql,mongo,redis,docker,kubernetes,jenkins,aws,azure,git,gitlab,linux" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,rust,kotlin,react,tailwind,nodejs,postgres,mysql,mongo,redis,docker,kubernetes,jenkins,aws,azure,git,gitlab,linux" />
   </a>
 </p>
 
@@ -60,4 +60,10 @@
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.pulso" title="Baixar Pulso"><img src="assets/card-pulso-app.svg" width="16%" align="top" alt="Baixar Pulso"/></a><a href="https://pulso.marujo.dev" title="Site do Pulso"><img src="assets/card-pulso-site.svg" width="16%" align="top" alt="Visitar site do Pulso"/></a>
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.appblocker" title="Baixar Instablock"><img src="assets/card-acelera-app.svg" width="16%" align="top" alt="Baixar Instablock"/></a><a href="https://acelera.marujo.dev" title="Site do Instablock"><img src="assets/card-acelera-site.svg" width="16%" align="top" alt="Visitar site do Instablock"/></a>
   <a href="https://github.com/lucasmarujo/orkai-cli/releases/tag/latest" title="Baixar Orkai CLI"><img src="assets/card-orkai-app.svg" width="16%" align="top" alt="Baixar Orkai CLI"/></a><a href="https://orkai.marujo.dev" title="Site do Orkai CLI"><img src="assets/card-orkai-site.svg" width="16%" align="top" alt="Visitar site do Orkai CLI"/></a>
+</p>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=dev.marujo.gitwallpaper" title="Git Wallpaper"><img src="assets/card-gitwallpaper-top.svg" width="32%" align="top" alt="Git Wallpaper — seu gráfico de contribuições do GitHub no wallpaper do Android, sempre em dia"/></a>
+  <br/>
+  <a href="https://play.google.com/store/apps/details?id=dev.marujo.gitwallpaper" title="Baixar Git Wallpaper"><img src="assets/card-gitwallpaper-app.svg" width="16%" align="top" alt="Baixar Git Wallpaper"/></a><a href="https://github.com/lucasmarujo/git-android-wallpaper" title="Repositório do Git Wallpaper"><img src="assets/card-gitwallpaper-site.svg" width="16%" align="top" alt="Visitar repositório do Git Wallpaper"/></a>
 </p>

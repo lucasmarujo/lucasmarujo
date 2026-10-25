@@ -35,6 +35,7 @@ SITES = {
     "pulso": "https://pulso.marujo.dev",
     "acelera": "https://acelera.marujo.dev",
     "orkai": "https://orkai.marujo.dev",
+    "gitwallpaper": "https://github.com/lucasmarujo/git-android-wallpaper",
 }
 PIECES = ("top", "app", "site")
 BASE64_DATA = re.compile(r"base64,[A-Za-z0-9+/=]+")
@@ -241,6 +242,27 @@ class ReadmeTests(unittest.TestCase):
         positions = [readme.index(f"assets/card-{slug}-top.svg") for slug in ("pulso", "acelera", "orkai")]
 
         self.assertEqual(positions, sorted(positions))
+
+    def test_git_wallpaper_card_starts_a_new_row_after_orkai(self):
+        readme = featured_projects(readme_text())
+        orkai_site = readme.index("assets/card-orkai-site.svg")
+        git_wallpaper_top = readme.index("assets/card-gitwallpaper-top.svg")
+
+        self.assertIn('</p>\n\n<p align="center">', readme[orkai_site:git_wallpaper_top])
+
+    def test_git_wallpaper_links_to_play_store(self):
+        self.assertIn(
+            '<a href="https://play.google.com/store/apps/details?id=dev.marujo.gitwallpaper" title="Git Wallpaper">'
+            '<img src="assets/card-gitwallpaper-top.svg"',
+            readme_text(),
+        )
+
+    def test_languages_include_rust_and_kotlin(self):
+        icons = re.search(r"skillicons\.dev/icons\?i=([a-z,]+)", readme_text()).group(1).split(",")
+
+        self.assertIn("rust", icons)
+        self.assertIn("kotlin", icons)
+        self.assertEqual(len(icons), len(set(icons)))
 
 
 if __name__ == "__main__":
