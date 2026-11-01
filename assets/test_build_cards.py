@@ -34,7 +34,7 @@ README = Path(BASE).parent / "README.md"
 SITES = {
     "pulso": "https://pulso.marujo.dev",
     "acelera": "https://acelera.marujo.dev",
-    "orkai": "https://orkai.marujo.dev",
+    "orkai": "https://octo.marujo.dev",
     "gitwallpaper": "https://github.com/lucasmarujo/git-android-wallpaper",
 }
 PIECES = ("top", "app", "site")
@@ -148,7 +148,7 @@ class RenderButtonTests(unittest.TestCase):
         button = render_cta(PROJECTS[2])
 
         self.assertIn('rx="17" fill="#FF5F87"', button)
-        self.assertIn(">Baixar CLI</text>", button)
+        self.assertIn(">Baixar app</text>", button)
         self.assertIn('stroke="#0D1117" stroke-width="1.8"', button)
 
     def test_unavailable_cta_is_outlined_without_icon(self):
@@ -249,6 +249,22 @@ class ReadmeTests(unittest.TestCase):
         git_wallpaper_top = readme.index("assets/card-gitwallpaper-top.svg")
 
         self.assertIn('</p>\n\n<p align="center">', readme[orkai_site:git_wallpaper_top])
+
+    def test_octo_links_to_latest_release(self):
+        self.assertIn(
+            '<a href="https://github.com/lucasmarujo/octo/releases/latest" title="Octo">'
+            '<img src="assets/card-orkai-top.svg"',
+            readme_text(),
+        )
+
+    def test_octo_card_has_no_legacy_orkai_references(self):
+        readme = featured_projects(readme_text())
+        octo = next(item for item in PROJECTS if item["slug"] == "orkai")
+
+        self.assertEqual(octo["name"], "Octo")
+        self.assertNotIn("orkai-cli", readme)
+        self.assertNotIn("orkai.marujo.dev", readme)
+        self.assertNotIn("Orkai", readme)
 
     def test_git_wallpaper_links_to_play_store(self):
         self.assertIn(

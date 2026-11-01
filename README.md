@@ -55,11 +55,11 @@
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.pulso" title="Pulso"><img src="assets/card-pulso-top.svg" width="32%" align="top" alt="Pulso — aplicativo de treino e dieta com IA integrada para Android e iOS"/></a>
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.appblocker" title="Instablock"><img src="assets/card-acelera-top.svg" width="32%" align="top" alt="Instablock — bloqueador de apps para manter o foco e controlar o tempo de tela no Android"/></a>
-  <a href="https://github.com/lucasmarujo/orkai-cli/releases/tag/latest" title="Orkai CLI"><img src="assets/card-orkai-top.svg" width="32%" align="top" alt="Orkai CLI — orquestre vários agentes de IA em vários projetos, de um terminal só"/></a>
+  <a href="https://github.com/lucasmarujo/octo/releases/latest" title="Octo"><img src="assets/card-orkai-top.svg" width="32%" align="top" alt="Octo — Claude Code, Codex e mais agentes de IA de todos os projetos numa janela só"/></a>
   <br/>
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.pulso" title="Baixar Pulso"><img src="assets/card-pulso-app.svg" width="16%" align="top" alt="Baixar Pulso"/></a><a href="https://pulso.marujo.dev" title="Site do Pulso"><img src="assets/card-pulso-site.svg" width="16%" align="top" alt="Visitar site do Pulso"/></a>
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.appblocker" title="Baixar Instablock"><img src="assets/card-acelera-app.svg" width="16%" align="top" alt="Baixar Instablock"/></a><a href="https://acelera.marujo.dev" title="Site do Instablock"><img src="assets/card-acelera-site.svg" width="16%" align="top" alt="Visitar site do Instablock"/></a>
-  <a href="https://github.com/lucasmarujo/orkai-cli/releases/tag/latest" title="Baixar Orkai CLI"><img src="assets/card-orkai-app.svg" width="16%" align="top" alt="Baixar Orkai CLI"/></a><a href="https://orkai.marujo.dev" title="Site do Orkai CLI"><img src="assets/card-orkai-site.svg" width="16%" align="top" alt="Visitar site do Orkai CLI"/></a>
+  <a href="https://github.com/lucasmarujo/octo/releases/latest" title="Baixar Octo"><img src="assets/card-orkai-app.svg" width="16%" align="top" alt="Baixar Octo"/></a><a href="https://octo.marujo.dev" title="Site do Octo"><img src="assets/card-orkai-site.svg" width="16%" align="top" alt="Visitar site do Octo"/></a>
 </p>
 
 <p align="center">

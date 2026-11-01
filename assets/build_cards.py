@@ -28,12 +28,12 @@ PROJECTS = [
     },
     {
         "slug": "orkai",
-        "name": "Orkai CLI",
-        "kind": "DEV TOOL",
+        "name": "Octo",
+        "kind": "DESKTOP APP",
         "color": "#FF5F87",
         "icon": "icon-orkai.png",
-        "lines": ["Orquestre vários agentes de IA em", "vários projetos, de um terminal só."],
-        "cta": "Baixar CLI",
+        "lines": ["Claude Code, Codex e mais agentes de IA", "de todos os projetos numa janela só."],
+        "cta": "Baixar app",
         "available": True,
     },
     {
