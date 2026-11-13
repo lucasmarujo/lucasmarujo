@@ -64,6 +64,8 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.gitwallpaper" title="Git Wallpaper"><img src="assets/card-gitwallpaper-top.svg" width="32%" align="top" alt="Git Wallpaper — seu gráfico de contribuições do GitHub no wallpaper do Android, sempre em dia"/></a>
+  <a href="https://nux.marujo.dev" title="Nux"><img src="assets/card-nux-top.svg" width="32%" align="top" alt="Nux — controle de hábitos com visual premium, em preto e prata, para iOS e Android"/></a>
   <br/>
   <a href="https://play.google.com/store/apps/details?id=dev.marujo.gitwallpaper" title="Baixar Git Wallpaper"><img src="assets/card-gitwallpaper-app.svg" width="16%" align="top" alt="Baixar Git Wallpaper"/></a><a href="https://github.com/lucasmarujo/git-android-wallpaper" title="Repositório do Git Wallpaper"><img src="assets/card-gitwallpaper-site.svg" width="16%" align="top" alt="Visitar repositório do Git Wallpaper"/></a>
+  <a href="https://nux.marujo.dev" title="Nux em breve"><img src="assets/card-nux-app.svg" width="16%" align="top" alt="Nux em breve"/></a><a href="https://nux.marujo.dev" title="Site do Nux"><img src="assets/card-nux-site.svg" width="16%" align="top" alt="Visitar site do Nux"/></a>
 </p>

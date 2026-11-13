@@ -46,6 +46,16 @@ PROJECTS = [
         "cta": "Baixar app",
         "available": True,
     },
+    {
+        "slug": "nux",
+        "name": "Nux",
+        "kind": "MOBILE APP",
+        "color": "#C0C0C0",
+        "icon": "icon-nux.png",
+        "lines": ["Controle de hábitos com visual premium,", "em preto e prata, para iOS e Android."],
+        "cta": "Em breve",
+        "available": False,
+    },
 ]
 
 SITE_CTA = "Visitar site"

@@ -36,6 +36,7 @@ SITES = {
     "acelera": "https://acelera.marujo.dev",
     "orkai": "https://octo.marujo.dev",
     "gitwallpaper": "https://github.com/lucasmarujo/git-android-wallpaper",
+    "nux": "https://nux.marujo.dev",
 }
 PIECES = ("top", "app", "site")
 BASE64_DATA = re.compile(r"base64,[A-Za-z0-9+/=]+")
@@ -272,6 +273,34 @@ class ReadmeTests(unittest.TestCase):
             '<img src="assets/card-gitwallpaper-top.svg"',
             readme_text(),
         )
+
+    def test_nux_card_sits_right_of_git_wallpaper_in_the_same_row(self):
+        readme = featured_projects(readme_text())
+        git_wallpaper_top = readme.index("assets/card-gitwallpaper-top.svg")
+        nux_top = readme.index("assets/card-nux-top.svg")
+        git_wallpaper_site = readme.index("assets/card-gitwallpaper-site.svg")
+        nux_app = readme.index("assets/card-nux-app.svg")
+
+        self.assertLess(git_wallpaper_top, nux_top)
+        self.assertLess(git_wallpaper_site, nux_app)
+        self.assertNotIn("</p>", readme[git_wallpaper_top:nux_app])
+        self.assertEqual(readme[git_wallpaper_top:nux_app].count("<br/>"), 1)
+
+    def test_nux_links_to_its_site_while_the_stores_are_not_live(self):
+        nux = next(item for item in PROJECTS if item["slug"] == "nux")
+
+        self.assertFalse(nux["available"])
+        self.assertIn(
+            '<a href="https://nux.marujo.dev" title="Nux"><img src="assets/card-nux-top.svg"',
+            readme_text(),
+        )
+
+    def test_nux_cta_is_rendered_as_unavailable(self):
+        nux = next(item for item in PROJECTS if item["slug"] == "nux")
+        button = render_cta(nux)
+
+        self.assertIn('fill="none" stroke="#30363D"', button)
+        self.assertIn(">Em breve</text>", button)
 
     def test_languages_include_rust_and_kotlin(self):
         icons = re.search(r"skillicons\.dev/icons\?i=([a-z,]+)", readme_text()).group(1).split(",")
