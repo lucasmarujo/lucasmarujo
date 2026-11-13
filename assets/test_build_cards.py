@@ -302,6 +302,13 @@ class ReadmeTests(unittest.TestCase):
         self.assertIn('fill="none" stroke="#30363D"', button)
         self.assertIn(">Em breve</text>", button)
 
+    def test_instablock_card_mentions_android_and_ios(self):
+        instablock = next(item for item in PROJECTS if item["slug"] == "acelera")
+        description = " ".join(instablock["lines"])
+
+        self.assertIn("Android e iOS", description)
+        self.assertIn(f'alt="Instablock — {description[0].lower()}{description[1:].rstrip(".")}"', readme_text())
+
     def test_languages_include_rust_and_kotlin(self):
         icons = re.search(r"skillicons\.dev/icons\?i=([a-z,]+)", readme_text()).group(1).split(",")
 

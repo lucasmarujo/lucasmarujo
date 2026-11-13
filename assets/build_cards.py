@@ -22,7 +22,7 @@ PROJECTS = [
         "kind": "MOBILE APP",
         "color": "#3FCECB",
         "icon": "icon-acelera.png",
-        "lines": ["Bloqueador de apps para manter o foco", "e controlar o tempo de tela no Android."],
+        "lines": ["Bloqueador de apps para foco e controle", "do tempo de tela, para Android e iOS."],
         "cta": "Baixar app",
         "available": True,
     },
